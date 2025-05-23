@@ -6,3 +6,6 @@
 
 # Атрибут необхідний для правильної обробки *.lng файлів
 *.lng working-tree-encoding=CP1251 eol=CRL
+
+# Атрибут необхідний для правильної обробки *.mnu файлів
+*.mnu working-tree-encoding=CP1251 eol=CRL
