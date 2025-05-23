@@ -1,0 +1,8 @@
+# Атрибут необхідний для правильної обробки *.tlb файлів
+*.tlb working-tree-encoding=CP1251 eol=CRLF
+
+# Атрибут необхідний для правильної обробки *.dsf файлів
+*.dsf working-tree-encoding=CP1251 eol=CRLF
+
+# Атрибут необхідний для правильної обробки *.lng файлів
+*.lng working-tree-encoding=CP1251 eol=CRL
