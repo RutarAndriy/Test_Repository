@@ -5,7 +5,7 @@
 *.dsf working-tree-encoding=CP1251 eol=CRLF linguist-language=NSIS
 
 # Атрибут необхідний для правильної обробки *.lng файлів
-*.lng working-tree-encoding=CP1251 eol=CRL
+*.lng working-tree-encoding=CP1251 eol=CRL linguist-language=TSV
 
 # Атрибут необхідний для правильної обробки *.mnu файлів
-*.mnu working-tree-encoding=CP1251 eol=CRL
+*.mnu working-tree-encoding=CP1251 eol=CRL linguist-language=TSV
