@@ -1,11 +1,11 @@
 # Атрибут необхідний для правильної обробки *.tlb файлів
-*.tlb working-tree-encoding=CP1251 eol=CRLF linguist-language=NSIS
+*.tlb working-tree-encoding=CP1251 eol=CRLF linguist-language=nsis
 
 # Атрибут необхідний для правильної обробки *.dsf файлів
-*.dsf working-tree-encoding=CP1251 eol=CRLF linguist-language=NSIS
+*.dsf working-tree-encoding=CP1251 eol=CRLF linguist-language=nsis
 
 # Атрибут необхідний для правильної обробки *.lng файлів
-*.lng working-tree-encoding=CP1251 eol=CRL linguist-language=TSV
+*.lng working-tree-encoding=CP1251 eol=CRL linguist-language=tsv
 
 # Атрибут необхідний для правильної обробки *.mnu файлів
-*.mnu working-tree-encoding=CP1251 eol=CRL linguist-language=TSV
+*.mnu working-tree-encoding=CP1251 eol=CRL linguist-language=tsv
